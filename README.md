@@ -1,2 +1,2 @@
-# cucumber-test
-Cucumber Ruby Selenium
+# cucumber_test
+ruby_cucumber test
