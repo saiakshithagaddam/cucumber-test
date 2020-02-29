@@ -39,7 +39,7 @@ GEM
       watir (~> 6.8)
     page_navigation (0.10)
       data_magic (>= 0.22)
-    rake (12.3.2)
+    rake (12.3.3)
     regexp_parser (1.5.1)
     rspec (3.8.0)
       rspec-core (~> 3.8.0)
